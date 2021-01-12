@@ -1,0 +1,237 @@
+[
+    {
+        "nama": "Thomas Andrew I",
+        "suhu": "21",
+        "kabupaten": "Jombang"
+    },
+    {
+        "nama": "Muhammad Rayhan Rachmansyah",
+        "suhu": "21",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Brian Firmansyah Kartono Soebari",
+        "suhu": "23",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Galih Arum",
+        "suhu": "23",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Elsa Febriantika",
+        "suhu": "24",
+        "kabupaten": "Jombang"
+    },
+    {
+        "nama": "Imalia Rosyida",
+        "suhu": "24",
+        "kabupaten": "Tuban"
+    },
+    {
+        "nama": "Muhammad Alfyando",
+        "suhu": "24",
+        "kabupaten": "Nganjuk"
+    },
+    {
+        "nama": "Nadhif Mahardika Awandi",
+        "suhu": "24",
+        "kabupaten": "Serang"
+    },
+    {
+        "nama": "Agung Handayanto",
+        "suhu": "25",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Zata Hashfi",
+        "suhu": "26",
+        "kabupaten": "Duri"
+    },
+    {
+        "nama": "Muhammad Farhan",
+        "suhu": "26",
+        "kabupaten": "Pasuruan"
+    },
+    {
+        "nama": "Nizar Abdurrahman",
+        "suhu": "26",
+        "kabupaten": "Pasuruan"
+    },
+    {
+        "nama": "Elsa Shantyka Putri Azzahra",
+        "suhu": "27",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Muhammad Dafa Ardiansyah",
+        "suhu": "27",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Husain Taufiqqurrahman",
+        "suhu": "27",
+        "kabupaten": "Karawang"
+    },
+    {
+        "nama": "Harun Al Rasyid",
+        "suhu": "28",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Anwar",
+        "suhu": "28",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Taufik Hidayat",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Eren Dio Sefrila",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Dimas Seno Herlambang",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Ahmad Yuan Arby",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Dimas Zainal Muttaqin",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Mochammad Arya Salsabila",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Pande Yogam",
+        "suhu": "28",
+        "kabupaten": "Badung"
+    },
+    {
+        "nama": "Wisang Firmanto",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Eki Pristiyanto",
+        "suhu": "28",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Guntur Adhi P",
+        "suhu": "28",
+        "kabupaten": "Pasuruan"
+    },
+    {
+        "nama": "Aditya Pameswara",
+        "suhu": "29",
+        "kabupaten": "Kediri"
+    },
+    {
+        "nama": "Aditya Rizqi Ardhana",
+        "suhu": "29",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Ahmad Wahyu Rafsan Zani",
+        "suhu": "29",
+        "kabupaten": "Mojokerto"
+    },
+    {
+        "nama": "Anisa Nurcahyani",
+        "suhu": "29",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Real Ananda Kristi",
+        "suhu": "29",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Farra Wardah",
+        "suhu": "29",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Fatimatuz Zahroh",
+        "suhu": "29",
+        "kabupaten": "Tuban"
+    },
+    {
+        "nama": "Danang Rahmatullah Sukarno",
+        "suhu": "29",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Alfinas Agung Mujiono",
+        "suhu": "29",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Dicky Giancini",
+        "suhu": "29",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Mochammad Yanuar Fitroni",
+        "suhu": "30",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Achmad Bias Firmansyah",
+        "suhu": "30",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Dio Farrel Putra Rachmawan",
+        "suhu": "30",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Nur Ulfa Mauludina",
+        "suhu": "30",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Puteri Aulia Fahlia",
+        "suhu": "30",
+        "kabupaten": "Sidoarjo"
+    },
+    {
+        "nama": "Faradella Anggi",
+        "suhu": "30",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Yanuar Nur Ilmansyah",
+        "suhu": "30",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Eka Zuni Selviana",
+        "suhu": "31",
+        "kabupaten": "Jombang"
+    },
+    {
+        "nama": "Rizal Afandi",
+        "suhu": "31",
+        "kabupaten": "Surabaya"
+    },
+    {
+        "nama": "Achmad Arsa Abdillah M",
+        "suhu": "32",
+        "kabupaten": "Tuban"
+    }
+]

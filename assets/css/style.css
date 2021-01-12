@@ -1,0 +1,133 @@
+
+/*Navbar*/
+.navbar {
+    position: relative;
+    z-index: 1;
+}
+
+.navbar-brand {
+    margin-top: 10px;;
+    font-family: Viga;
+    font-size: 28px;
+}
+
+#menu.cus-nav 
+{
+    background: #262626;
+    z-index: 999;        
+    opacity: 0.7;
+}
+
+.nav-item
+{
+    font-size: 20px;
+}
+    
+#menu.cus-nav a 
+{
+    color:whitesmoke;
+}
+
+/*Data Tabel*/
+.responden
+{
+    min-height: 800px;
+    margin-top: 100px;
+}
+hr
+{
+    width: 750px;
+    border-top: 2px solid #666 !important;
+}
+.page-item
+{
+    padding-top: -10px !important;
+}
+.button
+{
+    padding-top: 5px;
+}
+.ngakali
+{
+    margin-top: -2px;
+}
+
+/*Data Tabel*/
+section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #444242 !important;
+    margin-bottom: 20px;
+}
+section .container
+{
+    position: relative;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    min-height: 1000px;
+    
+}
+.container .kotak
+{
+    position: relative;
+    max-width: 280px !important;
+    height: 285px;
+    background: #fff;
+    display: flex;
+    margin: 50px 15px;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in-out;
+    border-radius: 5px;
+}
+.container .kotak:hover
+{
+    height: 355px;
+}
+.container .kotak .imgBx
+{
+    position: relative;
+    width: 260px;
+    height: 260px;
+    top: -60px;
+    left: 10px;
+    z-index: 1;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+.container .card .imgBx img
+{
+    max-width: 100%;
+}
+.container .kotak .content
+{
+    position: relative;
+    margin-top: -140;
+    padding: 10px 15px;
+    text-align: center;
+    color: #111;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+.container .kotak:hover .content
+{
+    visibility: visible;
+    opacity: 1;
+    margin-top: -25px;
+    transition-delay: 0.2s;
+}
+.sub-judul
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+/*Data Kelompok*/
